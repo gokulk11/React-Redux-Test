@@ -1,0 +1,1 @@
+.meme-container{display:grid;grid-template-columns:repeat(4,1fr);grid-gap:.5rem;margin-top:2rem}.meme-data img{width:100%;height:300px}*{padding:0%;margin:0%;box-sizing:border-box}
